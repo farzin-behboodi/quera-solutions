@@ -31,7 +31,7 @@ in this code the program checks the input letters in the Terminal:
 ---
 
 ## 2. Freedom of Speech Day in Barareh
-* **question link** : [Freedom of Speech Day in Barareh on Quera](put-link-here)
+* **question link** : [Freedom of Speech Day in Barareh on Quera](https://quera.org/problemset/10162)
 
 when you run (python "Freedom of Speech Day in Barareh.py") in the Terminal, the code gets number (k) and checks which side of Barareh starts talking:
 
@@ -52,7 +52,7 @@ in this file the code works with these steps in the Terminal:
 ---
 
 ## 3. Pythagorean triples
-* **question link** : [Pythagorean triples on Quera](put-link-here)
+* **question link** : [Pythagorean triples on Quera](https://quera.org/problemset/280)
 
 when we run (python "Pythagorean triples.py") in the Terminal, the system gets 3 numbers and checks if they make a right triangle:
 
@@ -80,7 +80,7 @@ in this code you must enter 3 numbers one by one in the Terminal:
 ---
 
 ## 4. Diamond print
-* **question link** : [Diamond print on Quera](put-link-here)
+* **question link** : [Diamond print on Quera](https://quera.org/problemset/618)
 
 when you run (python "Diamond print.py") in the Terminal, the code gets (n) and prints a star diamond with size (2*n+1):
 
@@ -103,7 +103,7 @@ in this file the loop makes each line of the diamond in the Terminal:
 ---
 
 ## 5. Star diamonds
-* **question link** : [Star diamonds on Quera](put-link-here)
+* **question link** : [Star diamonds on Quera](https://quera.org/problemset/9773)
 
 when we run (python "Star diamonds.py") in the Terminal, the code prints two diamonds next to each other on the same lines:
 
