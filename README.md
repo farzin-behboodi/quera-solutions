@@ -8,7 +8,7 @@ in this folder we have 5 main files: Strict diet.py, Freedom of Speech Day in Ba
 ---
 
 ## 1. Strict diet
-* **question link** : [Strict diet on Quera](put-link-here)
+* **question link** : [Strict diet on Quera](https://quera.org/problemset/20256)
 
 When we run this code with (python "Strict diet.py") in the Terminal, the system gets a 5 letter string for the food label and checks if it is safe to eat:
 
